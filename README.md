@@ -12,8 +12,8 @@
 <br>
 <br>
 <div align="center" width="100%">
-    <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
-    <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+    <img height="195px" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+    <img height="195px" max-width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
 
 
