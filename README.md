@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d71e47&&fontColor=1C1726&height=200&section=header&text=OLÁ!!!%20SOU%20LEONARDO%20LINTON&fontSize=50&animation=twinkling" width="100%"/>
+    <a href="https://leonardolinton.github.io/portfolio/">
+        <img src="https://leonardolinton.github.io/portfolio/assets/img/coding-animate.svg" alt="coding" width="250" align="right">
+    </a>
+<br>
+<h2>Um pouco sobre mim</h2>
 
-<!--
-**leonardolinton/leonardolinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📘 Estou aprendendo React
+- 🧛‍♂ Pronomes: Ele/Dele
+- 📫 Entre em contato: leonardolinton.info@gmail.com
+<br>
+<br>
+<br>
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
