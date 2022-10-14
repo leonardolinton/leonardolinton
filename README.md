@@ -6,8 +6,8 @@
 </div>
    
 <div align="center">
-    <img height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=leonardolinton&show_icons=true&theme=dracula&card_width=200px">
-    <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolinton&theme=dracula&layout=compact&card_width=200px">
+    <img height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=leonardolinton&show_icons=true&theme=dracula&bg_color=1C1726&title_color=D71E47&border_color=D71E47&border_radius=0&card_width=200px">
+    <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolinton&theme=dracula&bg_color=1C1726&title_color=D71E47&border_color=D71E47&border_radius=0&layout=compact&card_width=200px">
 </div>
 
 
