@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0040&&fontColor=1C1726&height=200&section=header&text=OLÁ!!!%20SOU%20LEONARDO%20LINTON&fontSize=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D71E47&fontColor=1C1726&height=200&section=header&text=OLÁ!!!%20SOU%20LEONARDO%20LINTON&fontSize=50&animation=twinkling" width="100%"/>
 <div align="center">
     <a href="https://leonardolinton.github.io/portfolio/">
         <img src="https://leonardolinton.github.io/portfolio/assets/img/coding-animate.svg" alt="coding" width="250" align="center">   
