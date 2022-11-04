@@ -31,4 +31,4 @@
 
 </br>
 
-![Snake animation](https://github.com/leonardolinton/leonardolinton/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/leonardolinton/leonardolinton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
