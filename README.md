@@ -5,18 +5,18 @@
 </p>
 </br>
 <p align="left">
-  👾 Linguagens: <strong> HTML -  CSS -  JavaScript.</strong>
+  👾 <strong>Linguagens: HTML -  CSS -  JavaScript.</strong>
 </p>
 
 <p align="left">
-  🔧 Ferramentas: <strong> Git.</strong>
+  🔧 <strong>Ferramentas: Git.</strong>
 </p>
 
 <p align="left">
-  💻 <strong>Caso queira acompanhar meus conteúdos:</strong>
+  💻 <strong>Meus contatos:</strong>
 </p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leonardolinton)](https://github.com/leonardolinton) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-linton)](https://www.linkedin.com/in/leonardo-linton) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521976590294&text=Hello!)](https://api.whatsapp.com/send?phone=5521976590294&text=Hello!) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardolinton.info@gmail.com)](mailto:leonardolinton.info@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-linton)](https://www.linkedin.com/in/leonardo-linton) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521976590294&text=Hello!)](https://api.whatsapp.com/send?phone=5521976590294&text=Hello!) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardolinton.info@gmail.com)](mailto:leonardolinton.info@gmail.com)
 
 </br>
 </br>
