@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D71E47&fontColor=1C1726&height=200&section=header&text=OLÁ!!!%20SOU%20LEONARDO%20LINTON&fontSize=50&animation=twinkling" width="100%"/>
-<img src="https://raw.githubusercontent.com/leonardolinton/portfolio/main/assets/img/code-typing-bro.png" min-width="300px" max-width="300px" width="350px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/leonardolinton/portfolio/main/assets/img/code-typing-bro.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 <p align="left"> 
   Sou um apaixonado por tecnologia, e decidi trilhar o caminho da programação. Possuo experiência como analista de sistemas, e atualmente venho estudando constantemente as tecnologias HTML, CSS e JS para poder migrar para o desenvolvimento front-end.
 </p>
