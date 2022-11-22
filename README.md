@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  📘 <strong>Atualmente aprendendo: </strong>C#
+  📘 <strong>Atualmente aprendendo: </strong>REACT JS e C#
 </p>
 
 <p align="left">
