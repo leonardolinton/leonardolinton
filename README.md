@@ -18,12 +18,11 @@
 </p>
 
 <p align="left">
-  ✉ <strong>Meus contatos:</strong>
+  👾 <strong>Meus contatos:</strong>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-linton)](https://www.linkedin.com/in/leonardo-linton) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521976590294&text=Hello!)](https://api.whatsapp.com/send?phone=5521976590294&text=Hello!) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardolinton.info@gmail.com)](mailto:leonardolinton.info@gmail.com)
 
-</br> 
 </br>
 
 <div align="center">
