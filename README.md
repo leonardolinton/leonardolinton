@@ -27,6 +27,8 @@
 
 <div align="center">
 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardolinton&show_icons=true&count_private=true&hide_border=false&title_color=D71E47&icon_color=00bfbf&text_color=c9d1d9&bg_color=070f1a&border_color=D71E47&" alt="Leonardo Linton Github stats" /> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolinton&layout=compact&hide_border=false&title_color=D71E47&text_color=00bfbf&bg_color=070f1a&border_color=D71E47&" />
   
 </div>
 
