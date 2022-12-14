@@ -26,10 +26,8 @@
 </br>
 
 <div align="center">
-  <a href="https://github.com/antoniojose2023">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardolinton&count_private=true&include_all_commits=true&border_color=D71E47&title_color=D71E47&border_radius=false&bg_color=070f1a&show_icons=true&theme=codeSTACKr&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolinton&theme=codeSTACKr&bg_color=070f1a&title_color=D71E47&border_color=D71E47&border_radius=false&hide_border=false&&layout=compact"/>
-  </a>
+
+  
 </div>
 
 <div align="center">
