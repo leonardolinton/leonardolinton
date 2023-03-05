@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  📘 <strong>Atualmente aprendendo: </strong>REACT JS e C#
+  📘 <strong>Atualmente aprendendo: </strong>REACT JS e JAVA
 </p>
 
 <p align="left">
